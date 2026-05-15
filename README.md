@@ -2,9 +2,7 @@
 
 # Classification d'Images avec CNN (PyTorch)
 
-!
-
-[Image of Convolutional Neural Network architecture]
+![image.png](attachment:image.png)
 
 
 Ce projet implémente un Réseau de Neurones Convolutif (CNN) performant en utilisant **PyTorch** pour la classification automatisée d'images de mode. 
